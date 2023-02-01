@@ -1,0 +1,18 @@
+{
+  "name": "zc-language",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Neekky/zc-language.git",
+  "author": "CengChao <chao1.zeng@aihuishou.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  }
+}
